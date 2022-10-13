@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class ScrpperPipeline:
+class ComparePricePipeline:
     def process_item(self, item, spider):
         return item
