@@ -1,16 +1,17 @@
 # web-Scrapping
 
-# First install the requirements.txt
+## First install the requirements.txt
 
-cd web-Scrapping
+> cd web-Scrapping
 
-pip install requirements.txt
+> pip install requirements.txt
 
 
-# Run command:
+## Run command:
 
-cd web-Scrapping/compare_price/compare_price
+> cd web-Scrapping/compare_price/compare_price
 
-scrapy crawl amazon
-scrapy crawl filpkart
+> scrapy crawl amazon
+
+> scrapy crawl filpkart
 
