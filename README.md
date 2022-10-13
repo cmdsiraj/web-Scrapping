@@ -1,13 +1,13 @@
 # web-Scrapping
 
-First install the requirements.txt
+# First install the requirements.txt
 
 cd web-Scrapping
 
 pip install requirements.txt
 
 
-Run command:
+# Run command:
 
 cd web-Scrapping/compare_price/compare_price
 
